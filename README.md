@@ -150,12 +150,10 @@ https://forgevault-1anm.onrender.com
 
 # 📈 GitHub Statistics
 
+## 📈 GitHub Activity
+
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=shreyashphanse&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=86400"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyashphanse&layout=compact&theme=github_dark&hide_border=true&cache_seconds=86400"/>
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shreyashphanse&theme=github-dark&hide_border=true"/>
 </p>
 
 <p align="center">
