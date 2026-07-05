@@ -10,17 +10,19 @@ Building scalable web & mobile applications that solve real-world problems.
 
 <p align="center">
 
-<a href="YOUR_PORTFOLIO_LINK">
-Portfolio
-</a>
+<a href="https://portfolio-frontend-nogx.onrender.com">🌐 Portfolio</a>
 •
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
-LinkedIn
-</a>
+<a href="https://www.linkedin.com/in/shreyashphanse">💼 LinkedIn</a>
 •
-<a href="mailto:YOUR_EMAIL">
-Email
-</a>
+<a href="mailto:shreyashphanse22@gmail.com">📧 Email</a>
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Open%20to-Software%20Engineering-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Location-Mumbai%2C%20India-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-orange?style=for-the-badge"/>
 
 </p>
 
@@ -28,12 +30,12 @@ Email
 
 # 💻 About Me
 
-- 🎓 Computer Science Graduate (2026)
-- 🚀 Built and deployed multiple full-stack web & mobile applications
+- 🎓 B.Sc. Computer Science (2023–2026)
+- 🚀 Built and deployed multiple full-stack web and mobile applications
 - 📱 Passionate about Full Stack Development and Backend Engineering
-- 🧠 Strong interest in solving real-world problems through software
+- ⚙️ Experienced in designing REST APIs and integrating cloud services
 - 🌱 Currently learning scalable backend architecture and system design
-- 🎯 Looking for Software Engineer / Full Stack Developer opportunities
+- 🎯 Looking for Software Engineer and Full Stack Developer opportunities
 
 ---
 
@@ -41,23 +43,39 @@ Email
 
 ## Languages
 
-JavaScript • Python • Java • SQL
+- JavaScript
+- Python
+- Java
+- SQL
 
 ## Frontend
 
-React.js • React Native • HTML5 • CSS3
+- React.js
+- React Native
+- HTML5
+- CSS3
+- Vite
 
 ## Backend
 
-Node.js • Express.js • REST APIs
+- Node.js
+- Express.js
+- REST APIs
+- JWT Authentication
 
 ## Database
 
-MongoDB • Firebase Authentication
+- MongoDB Atlas
+- Firebase Authentication
 
 ## Tools
 
-Git • GitHub • Postman • VS Code
+- Git
+- GitHub
+- Postman
+- VS Code
+- Render
+- Expo
 
 ---
 
@@ -69,13 +87,14 @@ OCR-powered bill and warranty management mobile application.
 
 ### Built With
 
-React Native • Node.js • Express.js • MongoDB • Firebase Authentication
+React Native • Node.js • Express.js • MongoDB Atlas • Firebase Authentication • Python OCR
 
 ### Features
 
 - OCR-based bill scanning
 - Warranty tracking
 - Reminder notifications
+- Expense reports
 - Secure authentication
 - Category management
 
@@ -91,15 +110,15 @@ Local service discovery platform connecting customers with nearby workers.
 
 ### Built With
 
-React.js • Node.js • Express.js • MongoDB • Firebase Authentication
+React.js • Node.js • Express.js • MongoDB Atlas • Firebase Authentication
 
 ### Features
 
 - Multi-role authentication
-- Customer / Worker dashboards
+- Customer & Worker dashboards
 - REST APIs
-- Station-based matching
-- CRUD operations
+- Station-based worker discovery
+- Complete CRUD operations
 
 🔗 Live Demo
 
@@ -107,9 +126,28 @@ https://localsathi.onrender.com/
 
 ---
 
-## 🔐 ForgeVault
+## 📦 ForgeVault
 
-Secure document vault for storing important personal records.
+A full-stack Android application repository for publishing, managing and distributing Android applications through a modern web platform.
+
+### Built With
+
+React • Vite • Node.js • Express.js • MongoDB Atlas • JWT Authentication • Multer • Render
+
+### Features
+
+- Secure administrator dashboard
+- APK and logo uploads
+- Application management
+- Download tracking
+- APK size calculation
+- Responsive modern UI
+- Dedicated application pages
+- REST API architecture
+
+🔗 Live Demo
+
+https://forgevault-1anm.onrender.com
 
 ---
 
@@ -138,8 +176,9 @@ Secure document vault for storing important personal records.
 # 🌱 Current Focus
 
 - Backend Development
+- Full Stack Development
 - System Design
-- Scalable REST APIs
+- REST API Development
 - Mobile Application Development
 - Data Structures & Algorithms
 
@@ -147,22 +186,22 @@ Secure document vault for storing important personal records.
 
 # 📫 Connect With Me
 
-LinkedIn
+🌐 Portfolio
 
-https://www.linkedin.com/in/YOUR-LINKEDIN
+https://portfolio-frontend-nogx.onrender.com
 
-Portfolio
+💼 LinkedIn
 
-YOUR_PORTFOLIO_LINK
+https://www.linkedin.com/in/shreyashphanse
 
-Email
+📧 Email
 
-YOUR_EMAIL
+shreyashphanse22@gmail.com
 
 ---
 
 <p align="center">
 
-Code • Learn • Build • Improve
+<b>Code • Learn • Build • Improve</b>
 
 </p>
