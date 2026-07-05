@@ -5,37 +5,33 @@ Software Engineer • Full Stack Developer
 </h3>
 
 <p align="center">
-Building scalable web & mobile applications that solve real-world problems.
+Building scalable web and mobile applications that solve real-world problems.
 </p>
 
 <p align="center">
+<a href="https://portfolio-frontend-nogx.onrender.com">
+<img src="https://img.shields.io/badge/🌐%20Portfolio-6B8E23?style=for-the-badge"/>
+</a>
 
-<a href="https://portfolio-frontend-nogx.onrender.com">🌐 Portfolio</a>
-•
-<a href="https://www.linkedin.com/in/shreyashphanse">💼 LinkedIn</a>
-•
-<a href="mailto:shreyashphanse22@gmail.com">📧 Email</a>
+<a href="https://www.linkedin.com/in/shreyashphanse">
+<img src="https://img.shields.io/badge/💼%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-</p>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Open%20to-Software%20Engineering-success?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Location-Mumbai%2C%20India-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-orange?style=for-the-badge"/>
-
+<a href="mailto:shreyashphanse22@gmail.com">
+<img src="https://img.shields.io/badge/📧%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 </p>
 
 ---
 
 # 💻 About Me
 
-- 🎓 B.Sc. Computer Science (2023–2026)
+- 🎓 Pursuing B.Sc. Computer Science (2023 – 2026)
 - 🚀 Built and deployed multiple full-stack web and mobile applications
-- 📱 Passionate about Full Stack Development and Backend Engineering
-- ⚙️ Experienced in designing REST APIs and integrating cloud services
+- 💡 Passionate about solving real-world problems through software
+- ⚙️ Experienced in REST API development and backend engineering
 - 🌱 Currently learning scalable backend architecture and system design
-- 🎯 Looking for Software Engineer and Full Stack Developer opportunities
+- 🎯 Actively seeking Software Engineer and Full Stack Developer opportunities
 
 ---
 
@@ -76,6 +72,7 @@ Building scalable web & mobile applications that solve real-world problems.
 - VS Code
 - Render
 - Expo
+- Figma
 
 ---
 
@@ -98,7 +95,7 @@ React Native • Node.js • Express.js • MongoDB Atlas • Firebase Authentic
 - Secure authentication
 - Category management
 
-🔗 Live Demo
+🔗 **Live Demo**
 
 https://forgevault-1anm.onrender.com/app/save-my-bill
 
@@ -115,12 +112,12 @@ React.js • Node.js • Express.js • MongoDB Atlas • Firebase Authenticatio
 ### Features
 
 - Multi-role authentication
-- Customer & Worker dashboards
+- Customer and Worker dashboards
 - REST APIs
 - Station-based worker discovery
 - Complete CRUD operations
 
-🔗 Live Demo
+🔗 **Live Demo**
 
 https://localsathi.onrender.com/
 
@@ -128,7 +125,7 @@ https://localsathi.onrender.com/
 
 ## 📦 ForgeVault
 
-A full-stack Android application repository for publishing, managing and distributing Android applications through a modern web platform.
+A modern Android application repository built for publishing, managing and distributing Android applications through a clean and responsive web platform.
 
 ### Built With
 
@@ -140,28 +137,24 @@ React • Vite • Node.js • Express.js • MongoDB Atlas • JWT Authenticati
 - APK and logo uploads
 - Application management
 - Download tracking
-- APK size calculation
-- Responsive modern UI
+- Automatic APK size calculation
+- Responsive UI
 - Dedicated application pages
 - REST API architecture
 
-🔗 Live Demo
+🔗 **Live Demo**
 
 https://forgevault-1anm.onrender.com
 
 ---
 
-# 📈 GitHub Stats
+# 📈 GitHub Statistics
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=shreyashphanse&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=shreyashphanse&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=86400"/>
 
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyashphanse&layout=compact&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyashphanse&layout=compact&theme=github_dark&hide_border=true&cache_seconds=86400"/>
 
 </p>
 
@@ -175,8 +168,8 @@ https://forgevault-1anm.onrender.com
 
 # 🌱 Current Focus
 
-- Backend Development
 - Full Stack Development
+- Backend Engineering
 - System Design
 - REST API Development
 - Mobile Application Development
@@ -184,21 +177,37 @@ https://forgevault-1anm.onrender.com
 
 ---
 
-# 📫 Connect With Me
+# 📫 Let's Connect
 
-🌐 Portfolio
+<p align="center">
 
-https://portfolio-frontend-nogx.onrender.com
+If you'd like to collaborate on a project, discuss software development, explore opportunities, or simply connect, feel free to reach out.
 
-💼 LinkedIn
+</p>
 
-https://www.linkedin.com/in/shreyashphanse
+<p align="center">
 
-📧 Email
+<a href="https://portfolio-frontend-nogx.onrender.com">
+<img src="https://img.shields.io/badge/🌐%20Portfolio-6B8E23?style=for-the-badge"/>
+</a>
 
-shreyashphanse22@gmail.com
+<a href="https://www.linkedin.com/in/shreyashphanse">
+<img src="https://img.shields.io/badge/💼%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:shreyashphanse22@gmail.com">
+<img src="https://img.shields.io/badge/📧%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
 
 ---
+
+<p align="center">
+
+⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
+
+</p>
 
 <p align="center">
 
