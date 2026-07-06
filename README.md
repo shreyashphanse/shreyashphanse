@@ -306,15 +306,11 @@ I'm always excited to collaborate on interesting projects, discuss software engi
 
 </a>
 
-&nbsp;
-
 <a href="https://www.linkedin.com/in/shreyashphanse">
 
 <img src="https://img.shields.io/badge/💼%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 
 </a>
-
-&nbsp;
 
 <a href="mailto:shreyashphanse22@gmail.com">
 
